@@ -56,7 +56,7 @@
     </td>
   </tr>
 </table>
---
+---
 
 ## 🏆 Achievements & Highlights
 
@@ -70,7 +70,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Issues&column=1" />
 </p>
 
---
+---
 
 ## 📫 Reach Me
 
