@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2" width="800" height="300">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush3941&theme=gruvbox" width="800" height="300" alt="Profile Summary Cards" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush3941&theme=tokyonight" width="800" height="300" alt="Profile Summary Cards" />
     </td>
   </tr>
 </table>
