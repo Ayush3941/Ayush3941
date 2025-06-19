@@ -2,6 +2,7 @@
 🎯 Third-year B.Tech student @ IET Lucknow  
 🧠 Passionate about AI, ML, and full-stack engineering  
 💡 Currently building: Nexura- College Social media Site
+
 🚀 Goal: Become Tony Stark-level problem solver (seriously)
 
 ## 💻 Tech Stack
