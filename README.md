@@ -56,13 +56,20 @@
     </td>
   </tr>
 </table>
-
----
+--
 ## 🏆 Achievements & Highlights
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&margin-h=15&title=MultiLanguage,Commits,PullRequest,Repositories,Experience,Followers,Issues" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/Ayush3941/Ayush3941/output/github-snake-dark.svg" alt="GitHub Snake" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=gruvbox" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3941&layout=compact&theme=gruvbox" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush3941&theme=gruvbox" alt="Profile Summary Cards" /> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=MultiLanguage&column=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Commits&column=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=PullRequest&column=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Repositories&column=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Experience&column=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Followers&column=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Issues&column=1" />
+</p>
 
----
+--
 
 ## 📫 Reach Me
 
