@@ -44,9 +44,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false" width="48%" alt="Ayush's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false" width="48%" alt="Ayush's GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3941&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Most used languages" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3941&theme=tokyonight&hide_border=false&langs_count=8&layout=donut" width="48%" alt="Most used languages" />
+</div>
+
 
 ---
 
