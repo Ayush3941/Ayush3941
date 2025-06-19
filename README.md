@@ -58,13 +58,11 @@
 </table>
 
 ---
-
 ## 🏆 Achievements & Highlights
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=tokyonight&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories,Issues" />
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15" />
+</p>
 ---
 
 ## 📫 Reach Me
