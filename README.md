@@ -55,7 +55,14 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3941&theme=tokyonight&hide_border=false&langs_count=8&layout=compact" width="800" height="300" alt="Top Languages" />
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2" width="800" height="300">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush3941&theme=gruvbox" width="800" height="300" alt="Profile Summary Cards" />
+    </td>
+  </tr>
 </table>
+
+
 ---
 
 ## 🏆 Achievements & Highlights
