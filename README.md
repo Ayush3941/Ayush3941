@@ -38,21 +38,24 @@
   </tr>
 </table>
 
-
+---
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false" width="400" height="300" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false" width="400" height="300" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3941&theme=tokyonight&hide_border=false&langs_count=8&layout=compact" width="400" height="300" alt="Top Languages" />
-</div>
-
-
+<table align="center">
+  <tr>
+    <td align="center" width="400" height="300">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false" width="400" height="300" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="400" height="300">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false" width="400" height="300" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" width="800" height="300">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3941&theme=tokyonight&hide_border=false&langs_count=8&layout=compact" width="800" height="300" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
