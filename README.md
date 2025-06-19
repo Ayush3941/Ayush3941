@@ -80,8 +80,8 @@
     <td><strong>📘 Projects:</strong></td>
     <td>
       <a href="https://github.com/Ayush3941/alpha-diary">Alpha-Diary</a> |
-      <a href="https://github.com/Ayush3941/DynamicAmbulence">DynamicAmbulance</a> |
-      <a href="https://github.com/Ayush3941/HiveReads">HiveReads</a>
+      <a href="https://github.com/Ayush3941/OAS-BIOTECH">OAS-BIOTECH</a> |
+      <a href="https://github.com/Ayush3941/Rain-Predictor">Rain Predictor</a>
     </td>
   </tr>
 </table>
