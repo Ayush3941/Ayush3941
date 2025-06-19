@@ -40,20 +40,45 @@
 
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false" />
-</p>
 
-## 🏆 Achievements
-- 👨‍💻 Developer Program Member
-- 🌟 GitHub Pro
-- 🐙 Pull Shark Badge (after merged PRs)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false" width="48%" alt="Ayush's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false" width="48%" alt="Ayush's GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3941&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Most used languages" />
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=tokyonight&no-frame=true&title=Stars,Commits,Followers,PullRequest,Repositories,Issues" />
+</div>
+
+---
 
 ## 📫 Reach Me
-📩 Email: ayushkgaur1@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/ayush-gaur-468751246/) 
-📘 Projects: , [Alpha-Diary](https://github.com/Ayush3941/alpha-diary)
+
+<table>
+  <tr>
+    <td><strong>📩 Email:</strong></td>
+    <td><a href="mailto:ayushkgaur1@gmail.com">ayushkgaur1@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>💼 LinkedIn:</strong></td>
+    <td><a href="https://www.linkedin.com/in/ayush-gaur-468751246/">linkedin.com/in/ayush-gaur-468751246/</a></td>
+  </tr>
+  <tr>
+    <td><strong>📘 Projects:</strong></td>
+    <td>
+      <a href="https://github.com/Ayush3941/alpha-diary">Alpha-Diary</a> |
+      <a href="https://github.com/Ayush3941/DynamicAmbulence">DynamicAmbulance</a> |
+      <a href="https://github.com/Ayush3941/HiveReads">HiveReads</a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
