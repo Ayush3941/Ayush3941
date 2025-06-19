@@ -1,7 +1,7 @@
 # Hey 👋, I'm Ayush Gaur
-🎯 Final-year B.Tech student @ IET Lucknow  
+🎯 Third-year B.Tech student @ IET Lucknow  
 🧠 Passionate about AI, ML, and full-stack engineering  
-💡 Currently building: DynamicAmbulance, HiveReads, Alpha-Diary  
+💡 Currently building: Nexura- College Social media Site
 🚀 Goal: Become Tony Stark-level problem solver (seriously)
 
 ## 💻 Tech Stack
@@ -25,10 +25,10 @@
 - 🐙 Pull Shark Badge (after merged PRs)
 
 ## 📫 Reach Me
-📩 Email: ayush3941@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/your-link-here)  
-📘 Projects: [HiveReads](https://github.com/Ayush3941/HiveReads), [Alpha-Diary](https://github.com/Ayush3941/alpha-diary)
+📩 Email: ayushkgaur1@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/ayush-gaur-468751246/) 
+📘 Projects: , [Alpha-Diary](https://github.com/Ayush3941/alpha-diary)
 
 ---
 
-*“Either find a way or build one.” — Your inner Stark*
+*“JUST DO IT.” — Your inner Stark*
