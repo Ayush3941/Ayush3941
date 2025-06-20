@@ -98,9 +98,8 @@
 </p>
 
 <!-- Contribution Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ayush3941/Ayush3941/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<iframe src="https://your-domain.com/contrib-calendar" width="100%" height="200"></iframe>
+
 
 <!-- Animated Wave Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
