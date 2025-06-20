@@ -98,7 +98,7 @@
 </p>
 
 <!-- Contribution Snake Animation -->
-<img src="https://ghchart.rshah.org/FF6B6B/Ayush3941" alt="Ayush3941's colored GitHub calendar" />
+
 
 
 
