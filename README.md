@@ -11,8 +11,7 @@
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ayush3941&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://profile-counter.glitch.me/Ayush3941/count.svg" alt="Visitor Counter" />
+
 </div>
 
 
