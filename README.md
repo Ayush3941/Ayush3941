@@ -11,8 +11,10 @@
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ayush3941&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyush3941&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitors"/>
+  =
+  <img src="https://profile-counter.glitch.me/Ayush3941/count.svg" />
 </div>
+
 
 <br>
 
