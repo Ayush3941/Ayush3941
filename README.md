@@ -1,46 +1,112 @@
-# Hey 👋, I'm Ayush Gaur
-🎯 Third-year B.Tech student @ IET Lucknow  
-🧠 Passionate about AI, ML, and full-stack engineering  
-💡 Currently building: Nexura- College Social media Site
+<!-- Dynamic Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Ayush%20Gaur&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Tony%20Stark-level%20Problem%20Solver&descAlignY=51&descAlign=50"/>
+</div>
 
-🚀 Goal: Become Tony Stark-level problem solver (seriously)
+<!-- Animated Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Jetbrains+mono&size=35&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Ayush+Gaur;Third-year+B.Tech+%40+IET+Lucknow;AI%2C+ML+%26+Full-Stack+Engineer;Building+Nexura+-+Social+Platform;Tony+Stark-level+Problem+Solver!" alt="Typing SVG" />
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayush3941&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyush3941&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitors"/>
+</div>
+
+<br>
+
+<!-- Enhanced Introduction -->
+<h1 align="center">
+  Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Ayush Gaur
+</h1>
+
+🎯 **Third-year B.Tech student @ IET Lucknow**  
+🧠 **Passionate about AI, ML, and full-stack engineering**  
+💡 **Currently building:** Nexura - College Social media Site  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</div>
+
+🚀 **Goal:** Become Tony Stark-level problem solver (seriously)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" />
+</div>
+
+<!-- Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 💻 Tech Stack
 
-<table>
+<!-- Enhanced Tech Stack with Skill Icons -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,py,mysql,html,css,mongodb,git&theme=dark&perline=4" />
+</div>
+
+<br>
+
+<!-- Original Tech Stack Table (Enhanced) -->
+<table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/><br/>C
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/><br/>
+      <strong>C</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br/>Java
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br/>
+      <strong>Java</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br/>
+      <strong>Python</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>MySQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/><br/>
+      <strong>MySQL</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/>HTML5
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/><br/>
+      <strong>HTML5</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/>CSS3
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/><br/>
+      <strong>CSS3</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/>MongoDB
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/><br/>
+      <strong>MongoDB</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>Git
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/>
+      <strong>Git</strong>
     </td>
   </tr>
 </table>
 
----
-## 📊 GitHub Stats
+<!-- Matrix Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" />
 
+## 📊 GitHub Analytics
+
+<!-- Enhanced GitHub Stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3941&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush3941&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush3941&theme=tokyo-night&hide_border=true" />
+</div>
+
+<!-- Original Enhanced Stats Table -->
 <table align="center">
   <tr>
     <td align="center" width="400" height="300">
@@ -62,8 +128,8 @@
   </tr>
 </table>
 
-
----
+<!-- Animated Rainbow Line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 🏆 Achievements & Highlights
 
@@ -77,11 +143,33 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Issues&column=1" />
 </p>
 
----
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ayush3941/Ayush3941/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-## 📫 Reach Me
+<!-- Animated Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
 
-<table>
+## 🌐 Connect with me
+
+<!-- Enhanced Social Links with Badges -->
+<div align="center">
+  <a href="mailto:ayushkgaur1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-gaur-468751246/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ayush3941">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<!-- Original Contact Table -->
+<table align="center">
   <tr>
     <td><strong>📩 Email:</strong></td>
     <td><a href="mailto:ayushkgaur1@gmail.com">ayushkgaur1@gmail.com</a></td>
@@ -100,7 +188,22 @@
   </tr>
 </table>
 
+<!-- Animated Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
 ---
 
-*“JUST DO IT.” — Your inner Stark*
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
+    <em>"JUST DO IT." — Your inner Stark</em>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" />
+  </h3>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
