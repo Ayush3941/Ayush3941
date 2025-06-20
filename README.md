@@ -148,18 +148,14 @@
 </table>
 
 <!-- Animated Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+
 
 ---
 
 <div align="center">
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />
-    <em>"JUST DO IT." — Your inner Stark</em>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" />
-  </h3>
+  <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 </div>
 
 <!-- Footer -->
