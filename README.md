@@ -98,7 +98,8 @@
 </p>
 
 <!-- Contribution Snake Animation -->
-[![Welcome Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=Welcome%20to%20My%20Profile&width=800&height=200)]
+<script type="module" defer src="https://cdn.jsdelivr.net/gh/imananoosheh/github-contributions-fetch@latest/github_calendar_widget.js"></script>
+
 
 
 
