@@ -98,7 +98,8 @@
 </p>
 
 <!-- Contribution Snake Animation -->
-<script type="module" defer src="https://cdn.jsdelivr.net/gh/imananoosheh/github-contributions-fetch@latest/github_calendar_widget.js"></script>
+<img src="https://ghchart.rshah.org/FF6B6B/Ayush3941" alt="Ayush3941's colored GitHub calendar" />
+
 
 
 
