@@ -42,10 +42,8 @@
 
 <!-- Enhanced Tech Stack with Skill Icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,py,mysql,html,css,mongodb,git&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,tailwind,django,nodejs,express,mongodb,postgres,aws,docker,git&theme=dark&perline=8" />
 </div>
-
-<br>
 
 
 <!-- Matrix Divider -->
