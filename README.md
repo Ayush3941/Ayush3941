@@ -98,7 +98,8 @@
 </p>
 
 <!-- Contribution Snake Animation -->
-<iframe src="https://your-domain.com/contrib-calendar" width="100%" height="200"></iframe>
+[![Welcome Banner](https://svg-banners.vercel.app/api?type=rainbow&text1=Welcome%20to%20My%20Profile&width=800&height=200)]
+
 
 
 <!-- Animated Wave Divider -->
