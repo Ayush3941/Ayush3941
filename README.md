@@ -127,9 +127,8 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
-<br>
-
+<!-- Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 <!-- Original Contact Table -->
 <table align="center">
   <tr>
