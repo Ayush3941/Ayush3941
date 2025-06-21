@@ -51,40 +51,54 @@
 <!-- Matrix Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" />
 
-## 📊 GitHub Analytics
+<!-- 📊 GitHub Analytics (Responsive) -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- Enhanced GitHub Stats -->
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush3941&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
 
-
+<!-- Stats Cards Grid -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush3941&theme=tokyo-night&hide_border=true" />
+  <picture>
+    <source media="(max-width: 768px)" srcset="
+      https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false,
+      https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false
+    ">
+  </picture>
+  
+  <table style="width: 100%; max-width: 900px;">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false" width="100%" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3941&theme=tokyonight&hide_border=false&langs_count=8&layout=compact" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush3941&theme=tokyonight" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Original Enhanced Stats Table -->
-<table align="center">
-  <tr>
-    <td align="center" width="400" height="300">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false" width="400" height="300" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="400" height="300">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false" width="400" height="300" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" width="800" height="300">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3941&theme=tokyonight&hide_border=false&langs_count=8&layout=compact" width="800" height="300" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" width="800" height="300">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush3941&theme=tokyonight" width="800" height="300" alt="Profile Summary Cards" />
-    </td>
-  </tr>
-</table>
-![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
+<!-- GitHub Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+</p>
 
-<!-- Animated Rainbow Line -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<!-- Rainbow Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 🏆 Achievements & Highlights
 
