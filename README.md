@@ -43,8 +43,8 @@
 </div>
 
 
-<!-- Matrix Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" />
+<!-- Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <!-- 📊 GitHub Analytics (Responsive) -->
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -107,15 +107,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Issues&column=1" />
 </p>
 
-<!-- Contribution Snake Animation -->
 
 
 
-
-
-
-<!-- Animated Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
+<!-- Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 ## 🌐 Connect with me
 
