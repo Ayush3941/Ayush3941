@@ -18,11 +18,6 @@
 
 <br>
 
-<!-- Enhanced Introduction -->
-<h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Ayush Gaur
-</h1>
-
 🎯 **Third-year B.Tech student @ IET Lucknow**  
 🧠 **Passionate about AI, ML, and full-stack engineering**  
 💡 **Currently building:** Nexura - College Social media Site  
