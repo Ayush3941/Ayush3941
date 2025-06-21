@@ -140,13 +140,22 @@
     <td><a href="https://www.linkedin.com/in/ayush-gaur-468751246/">linkedin.com/in/ayush-gaur-468751246/</a></td>
   </tr>
   <tr>
-    <td><strong>📘 Projects:</strong></td>
-    <td>
-      <a href="https://github.com/Ayush3941/alpha-diary">Alpha-Diary</a> |
-      <a href="https://github.com/Ayush3941/OAS-BIOTECH">OAS-BIOTECH</a> |
-      <a href="https://github.com/Ayush3941/Rain-Predictor">Rain Predictor</a>
-    </td>
-  </tr>
+  <td><strong>📘 Projects:</strong></td>
+  <td>
+    <ul>
+      <li>
+        <a href="https://github.com/Ayush3941/alpha-diary"><strong>Alpha-Diary</strong></a> – Advanced budget planner & expense tracker with real-time UPI parsing, pie charts, and investment suggestions.
+      </li>
+      <li>
+        <a href="https://github.com/Ayush3941/OAS-BIOTECH"><strong>OAS-BIOTECH</strong></a> – Biotech startup website built with Bootstrap and Django; includes client showcase, product sections, and dynamic routing.
+      </li>
+      <li>
+        <a href="https://github.com/Ayush3941/Rain-Predictor"><strong>Rain Predictor</strong></a> – ML-powered rainfall prediction system using regression models trained on historical weather data.
+      </li>
+    </ul>
+  </td>
+</tr>
+
 </table>
 
 <!-- Animated Quote -->
