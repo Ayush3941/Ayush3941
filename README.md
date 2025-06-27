@@ -158,6 +158,29 @@
 
 </table>
 
+## 🧠 Join the Nexura Mission
+
+**Nexura** isn’t another project — it’s a movement.
+
+We’re building a full-stack college social media platform built around:
+- 📚 Community-driven book sharing
+- 💬 Deep, Reddit-style discussions
+- 🏛️ A decentralized, student-first knowledge marketplace
+
+This isn’t your average notes-sharing group or social clone.
+This is a platform where ideas, curiosity, and builders collide — on campus and beyond.
+
+### 🚨 Looking for:
+- Full-stack devs who ship without supervision
+- UI/UX minds who get Gen Z attention
+- Backend builders who don’t flinch at scale
+- Students who are sick of surface-level tools
+
+> If you're tired of mediocrity and ready to co-build something *real*, DM me or fork a repo and show me your dev DNA.
+
+📩 [Email](mailto:ayushkgaur1@gmail.com)  
+🏛️ [Join Nexura Org](https://github.com/Nexura-IET)
+
 <!-- Animated Quote -->
 
 
