@@ -97,7 +97,8 @@
 
 ## 🏆 Achievements & Highlights
 
-<p align="center">
+<div align="center" style="background-color:#f0f0f0; padding: 20px; border-radius: 12px; display: inline-block;">
+
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=MultiLanguage&column=1" />
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Commits&column=1" />
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=PullRequest&column=1" />
@@ -105,7 +106,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Experience&column=1" />
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Followers&column=1" />
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Issues&column=1" />
-</p>
+
+</div>
 
 
 
