@@ -97,17 +97,38 @@
 
 ## 🏆 Achievements & Highlights
 
-<div align="center" style="background-color:#f0f0f0; padding: 20px; border-radius: 12px; display: inline-block;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=MultiLanguage&column=1" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Commits&column=1" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=PullRequest&column=1" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Repositories&column=1" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Experience&column=1" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Followers&column=1" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Issues&column=1" />
+  <div style="background-color:#0f1117; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #33ff33;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=MultiLanguage&column=1" />
+  </div>
+
+  <div style="background-color:#0f1117; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #ff6b6b;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Commits&column=1" />
+  </div>
+
+  <div style="background-color:#0f1117; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #4ecdc4;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=PullRequest&column=1" />
+  </div>
+
+  <div style="background-color:#0f1117; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #33ff33;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Repositories&column=1" />
+  </div>
+
+  <div style="background-color:#0f1117; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #ff6b6b;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Experience&column=1" />
+  </div>
+
+  <div style="background-color:#0f1117; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #4ecdc4;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Followers&column=1" />
+  </div>
+
+  <div style="background-color:#0f1117; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #33ff33;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=gruvbox&no-frame=true&no-bg=true&title=Issues&column=1" />
+  </div>
 
 </div>
+
 
 
 
