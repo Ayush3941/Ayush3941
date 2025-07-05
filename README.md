@@ -95,7 +95,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-## 🏆 Achievements & Highlights
+# 🏆 Achievements & Highlights
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
