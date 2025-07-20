@@ -18,7 +18,7 @@
 
 <br>
 
-🎯 **Third-year B.Tech student @ IET Lucknow**  
+🎯 **Third-year B.Tech student @ IET  Lucknow**  
 🧠 **Passionate about AI, ML, and full-stack engineering**  
 💡 **Currently building:** Nexura - College Social media Site  
 
