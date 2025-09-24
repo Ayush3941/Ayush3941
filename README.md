@@ -20,7 +20,7 @@
 
 🎯 **Third-year B.Tech student @ IET  Lucknow**  
 🧠 **Passionate about AI, ML, and full-stack engineering**  
-💡 **Currently building:** Nexura - College Social media Site  
+💡 **Currently building:** Nexura - A Web3 based revolution in Industry
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
