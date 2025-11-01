@@ -71,10 +71,9 @@
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false" width="100%" />
       </td>
-    </tr>
-   
+    </tr> 
     <tr>
-      <td colspan="2" align="center">
+      <td colspan=2  align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush3941&theme=tokyonight" width="100%" />
       </td>
     </tr>
