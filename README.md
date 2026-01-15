@@ -82,8 +82,9 @@
 
 <!-- GitHub Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ayush3941/Ayush3941/output/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </p>
+
 
 <!-- Rainbow Divider -->
 <p align="center">
