@@ -67,7 +67,7 @@
     <tr>
      <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=86400"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=86400"
         width="100%"
       />
     </td>
