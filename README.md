@@ -65,12 +65,20 @@
   
   <table style="width: 100%; max-width: 900px;">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false" width="100%" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false" width="100%" />
-      </td>
+     <td align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=86400"
+    width="100%"
+  />
+</td>
+
+<td align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Ayush3941&theme=tokyonight&hide_border=false"
+    width="100%"
+  />
+</td>
+
     </tr> 
     <tr>
       <td colspan=2  align="center">
@@ -95,7 +103,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=algolia&no-frame=false&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=algolia&no-frame=true&row=1&column=6" />
   </a>
 </p>
 
