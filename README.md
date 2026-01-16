@@ -71,12 +71,6 @@
         width="100%"
       />
     </td>
-    <td align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=Ayush3941&theme=tokyonight&hide_border=false"
-        width="100%"
-      />
-    </td>
     </tr> 
     <tr>
       <td colspan=2  align="center">
