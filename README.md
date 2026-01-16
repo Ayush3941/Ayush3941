@@ -62,25 +62,13 @@
       https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false
     ">
   </picture>
+  <!--stats grade-->>
    <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=86400"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=86400"
         width="100%"
       />
-  <table style="width: 100%; max-width: 900px;">
-    <tr>
-     <td align="center">
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=86400"
-        width="100%"
-      />
-    </td>
-    </tr> 
-    <tr>
-      <td colspan=2  align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush3941&theme=tokyonight" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <!--stats graph-->>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush3941&theme=tokyonight" width="100%" />
 </div>
 
 <!-- GitHub Snake -->
