@@ -62,12 +62,12 @@
       https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false
     ">
   </picture>
-  <!--stats grade-->>
+  <!--stats grade-->
    <img
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=86400"
         width="100%"
       />
-  <!--stats graph-->>
+  <!--stats graph-->
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush3941&theme=tokyonight" width="100%" />
 </div>
 
