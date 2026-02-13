@@ -129,19 +129,26 @@
   </tr>
   <tr>
   <td><strong>📘 Projects:</strong></td>
-  <td>
-    <ul>
-      <li>
-        <a href="https://github.com/Ayush3941/alpha-diary"><strong>Alpha-Diary</strong></a> – Advanced budget planner & expense tracker with real-time UPI parsing, pie charts, and investment suggestions.
-      </li>
-      <li>
-        <a href="https://github.com/Ayush3941/OAS-BIOTECH"><strong>OAS-BIOTECH</strong></a> – Biotech startup website built with Bootstrap and Django; includes client showcase, product sections, and dynamic routing.
-      </li>
-      <li>
-        <a href="https://github.com/Ayush3941/Rain-Predictor"><strong>Rain Predictor</strong></a> – ML-powered rainfall prediction system using regression models trained on historical weather data.
-      </li>
-    </ul>
-  </td>
+<td>
+  <ul>
+    <li>
+      <a href="https://github.com/Ayush3941/alpha-diary"><strong>Alpha-Diary</strong></a> – Advanced budget planner & expense tracker with real-time UPI parsing, pie charts, and investment suggestions.
+    </li>
+    <li>
+      <a href="https://github.com/Ayush3941/OAS-BIOTECH"><strong>OAS-BIOTECH</strong></a> – Biotech startup website built with Bootstrap and Django; includes client showcase, product sections, and dynamic routing.
+    </li>
+    <li>
+      <a href="https://github.com/Reputation-DAO/Reputation-DAO"><strong>Reputation DAO</strong></a> – Soulbound on-chain reputation layer on ICP with factory–child canister architecture, decay engine, and fully auditable reputation analytics.
+    </li>
+    <li>
+      <a href="https://github.com/ProjectEuphoria/Euphoria"><strong>Euphoria</strong></a> – AI companionship platform concept with multi-persona architecture, safety-focused design, and scalable Web AI systems.
+    </li>
+    <li>
+      <a href="https://github.com/Ayush3941/Rain-Predictor"><strong>Rain Predictor</strong></a> – ML-powered rainfall prediction system using regression models trained on historical weather data.
+    </li>
+  </ul>
+</td>
+
 </tr>
 
 </table>
