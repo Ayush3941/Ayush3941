@@ -85,9 +85,7 @@
 # 🏆 Achievements & Highlights
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ayush3941&theme=algolia&no-frame=true&row=1&column=6" />
-  </a>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Ayush3941&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 
