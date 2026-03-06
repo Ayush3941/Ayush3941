@@ -148,6 +148,10 @@
 </tr>
 
 </table>
+## 📡 What I'm Doing Right Now
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🧠 Join the Nexura Mission
 
