@@ -150,7 +150,7 @@
 </table>
 
 
-<h2 align="center">📡 Live Engineering Feed</h2>
+## 📡 Live Engineering Feed
 
 <details open>
   <summary><b>See my latest GitHub activity</b></summary>
