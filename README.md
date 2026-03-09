@@ -144,12 +144,12 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#184033](https://github.com/llvm/llvm-project/pull/184033) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-2. 🎉 Merged PR [#181045](https://github.com/llvm/llvm-project/pull/181045) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-3. 💪 Opened PR [#184033](https://github.com/llvm/llvm-project/pull/184033) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-4. 🗣 Commented on [#182484](https://github.com/llvm/llvm-project/pull/182484#issuecomment-3974141949) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-5. 🗣 Commented on [#183040](https://github.com/llvm/llvm-project/issues/183040#issuecomment-3954378892) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-6. ❌ Closed PR [#183022](https://github.com/llvm/llvm-project/pull/183022) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+1. 💪 Opened PR [#185424](https://github.com/llvm/llvm-project/pull/185424) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+2. 🗣 Commented on [#185382](https://github.com/llvm/llvm-project/issues/185382#issuecomment-4023762406) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+3. 🗣 Commented on [#180766](https://github.com/llvm/llvm-project/issues/180766#issuecomment-4023737068) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+4. 🎉 Merged PR [#184033](https://github.com/llvm/llvm-project/pull/184033) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+5. 🎉 Merged PR [#181045](https://github.com/llvm/llvm-project/pull/181045) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+6. 💪 Opened PR [#184033](https://github.com/llvm/llvm-project/pull/184033) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
   <!--END_SECTION:activity-->
 
 </details>
