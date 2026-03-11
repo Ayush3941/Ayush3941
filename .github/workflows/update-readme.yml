@@ -21,5 +21,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: Ayush3941
-          MAX_LINES: 10
+          MAX_LINES: 15
           COMMIT_MSG: "⚡ Update README activity"
