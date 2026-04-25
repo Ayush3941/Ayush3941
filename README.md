@@ -141,12 +141,12 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1280](https://github.com/hyperledger-labs/fabric-smart-client/pull/1280) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-2. 🗣 Commented on [#1116](https://github.com/hyperledger-labs/fabric-smart-client/issues/1116#issuecomment-4288320627) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-3. 🗣 Commented on [#1244](https://github.com/hyperledger-labs/fabric-smart-client/issues/1244#issuecomment-4288301430) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-4. 🗣 Commented on [#1244](https://github.com/hyperledger-labs/fabric-smart-client/issues/1244#issuecomment-4287539035) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-5. 💪 Opened PR [#1259](https://github.com/hyperledger-labs/fabric-smart-client/pull/1259) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-6. 🗣 Commented on [#59](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program/issues/59#issuecomment-4281942439) in [LF-Decentralized-Trust-Mentorships/mentorship-program](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program)
+1. ❗ Opened issue [#1302](https://github.com/hyperledger-labs/fabric-smart-client/issues/1302) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+2. 💪 Opened PR [#1280](https://github.com/hyperledger-labs/fabric-smart-client/pull/1280) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+3. 🗣 Commented on [#1116](https://github.com/hyperledger-labs/fabric-smart-client/issues/1116#issuecomment-4288320627) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+4. 🗣 Commented on [#1244](https://github.com/hyperledger-labs/fabric-smart-client/issues/1244#issuecomment-4288301430) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+5. 🗣 Commented on [#1244](https://github.com/hyperledger-labs/fabric-smart-client/issues/1244#issuecomment-4287539035) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+6. 💪 Opened PR [#1259](https://github.com/hyperledger-labs/fabric-smart-client/pull/1259) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
   <!--END_SECTION:activity-->
 
 </details>
