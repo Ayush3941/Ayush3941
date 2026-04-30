@@ -141,12 +141,12 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1361](https://github.com/hyperledger-labs/fabric-smart-client/pull/1361) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-2. 🗣 Commented on [#1341](https://github.com/hyperledger-labs/fabric-smart-client/issues/1341#issuecomment-4339371230) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-3. 💪 Opened PR [#1347](https://github.com/hyperledger-labs/fabric-smart-client/pull/1347) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-4. 🗣 Commented on [#1341](https://github.com/hyperledger-labs/fabric-smart-client/issues/1341#issuecomment-4331507048) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-5. ❗ Opened issue [#1341](https://github.com/hyperledger-labs/fabric-smart-client/issues/1341) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-6. 🗣 Commented on [#1331](https://github.com/hyperledger-labs/fabric-smart-client/pull/1331#issuecomment-4322842272) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+1. 🎉 Merged PR [#1347](https://github.com/hyperledger-labs/fabric-smart-client/pull/1347) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+2. 💪 Opened PR [#1361](https://github.com/hyperledger-labs/fabric-smart-client/pull/1361) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+3. 🗣 Commented on [#1341](https://github.com/hyperledger-labs/fabric-smart-client/issues/1341#issuecomment-4339371230) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+4. 💪 Opened PR [#1347](https://github.com/hyperledger-labs/fabric-smart-client/pull/1347) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+5. 🗣 Commented on [#1341](https://github.com/hyperledger-labs/fabric-smart-client/issues/1341#issuecomment-4331507048) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+6. ❗ Opened issue [#1341](https://github.com/hyperledger-labs/fabric-smart-client/issues/1341) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
   <!--END_SECTION:activity-->
 
 </details>
