@@ -1,11 +1,12 @@
 <!-- Dynamic Banner -->
+<!-- mental health desc -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Ayush%20Gaur&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Tony%20Stark-level%20Problem%20Solver&descAlignY=70&descAlign=50"/>
 </div>
 
 <!-- Animated Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Jetbrains+mono&size=35&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Ayush+Gaur;Third-year+B.Tech+%40+IET+Lucknow;AI%2C+ML+%26+Full-Stack+Engineer;Building+Nexura+-+Social+Platform;Tony+Stark-level+Problem+Solver!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Jetbrains+mono&size=35&duration=3000&pause=1000&color=33FF33&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Ayush+Gaur;Fourth-year+B.Tech+%40+IET+Lucknow;AI%2C+ML+%26+Full-Stack+Engineer;Building+Nexura+-+Social+Platform;Tony+Stark-level+Problem+Solver!" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views Counter -->
