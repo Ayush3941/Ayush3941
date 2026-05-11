@@ -19,7 +19,7 @@
 
 <br>
 
-🎯 **Third-year B.Tech student @ IET  Lucknow**  
+🎯 **Fourth-year B.Tech student @ IET  Lucknow**  
 🧠 **Passionate about AI, ML, and full-stack engineering**  
 💡 **Currently building:** Nexura - A Web3 based revolution in Industry
 
