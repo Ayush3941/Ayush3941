@@ -142,12 +142,12 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/Ayush3941/gitrank/pull/8) in [Ayush3941/gitrank](https://github.com/Ayush3941/gitrank)
-2. ❌ Closed PR [#7](https://github.com/Ayush3941/gitrank/pull/7) in [Ayush3941/gitrank](https://github.com/Ayush3941/gitrank)
-3. ❌ Closed PR [#6](https://github.com/Ayush3941/gitrank/pull/6) in [Ayush3941/gitrank](https://github.com/Ayush3941/gitrank)
-4. ❌ Closed PR [#5](https://github.com/Ayush3941/gitrank/pull/5) in [Ayush3941/gitrank](https://github.com/Ayush3941/gitrank)
-5. ❌ Closed PR [#4](https://github.com/Ayush3941/gitrank/pull/4) in [Ayush3941/gitrank](https://github.com/Ayush3941/gitrank)
-6. ❌ Closed PR [#3](https://github.com/Ayush3941/gitrank/pull/3) in [Ayush3941/gitrank](https://github.com/Ayush3941/gitrank)
+1. 🎉 Merged PR [#1412](https://github.com/hyperledger-labs/fabric-smart-client/pull/1412) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+2. 🗣 Commented on [#1430](https://github.com/hyperledger-labs/fabric-smart-client/issues/1430#issuecomment-4425560337) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+3. 🗣 Commented on [#1426](https://github.com/hyperledger-labs/fabric-smart-client/issues/1426#issuecomment-4425500142) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+4. 🗣 Commented on [#1424](https://github.com/hyperledger-labs/fabric-smart-client/issues/1424#issuecomment-4425496221) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+5. ❌ Closed PR [#8](https://github.com/Ayush3941/gitrank/pull/8) in [Ayush3941/gitrank](https://github.com/Ayush3941/gitrank)
+6. ❌ Closed PR [#7](https://github.com/Ayush3941/gitrank/pull/7) in [Ayush3941/gitrank](https://github.com/Ayush3941/gitrank)
   <!--END_SECTION:activity-->
 
 </details>
