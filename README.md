@@ -142,12 +142,12 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1412](https://github.com/hyperledger-labs/fabric-smart-client/pull/1412) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-2. 🗣 Commented on [#1430](https://github.com/hyperledger-labs/fabric-smart-client/issues/1430#issuecomment-4425560337) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-3. 🗣 Commented on [#1426](https://github.com/hyperledger-labs/fabric-smart-client/issues/1426#issuecomment-4425500142) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-4. 🗣 Commented on [#1424](https://github.com/hyperledger-labs/fabric-smart-client/issues/1424#issuecomment-4425496221) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-5. ❌ Closed PR [#8](https://github.com/Ayush3941/gitrank/pull/8) in [Ayush3941/gitrank](https://github.com/Ayush3941/gitrank)
-6. ❌ Closed PR [#7](https://github.com/Ayush3941/gitrank/pull/7) in [Ayush3941/gitrank](https://github.com/Ayush3941/gitrank)
+1. 💪 Opened PR [#1459](https://github.com/hyperledger-labs/fabric-smart-client/pull/1459) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+2. 🗣 Commented on [#1423](https://github.com/hyperledger-labs/fabric-smart-client/issues/1423#issuecomment-4446069539) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+3. 🗣 Commented on [#1436](https://github.com/hyperledger-labs/fabric-smart-client/issues/1436#issuecomment-4446031049) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+4. 🗣 Commented on [#1441](https://github.com/hyperledger-labs/fabric-smart-client/issues/1441#issuecomment-4445958387) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+5. 💪 Opened PR [#1458](https://github.com/hyperledger-labs/fabric-smart-client/pull/1458) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+6. 💪 Opened PR [#1457](https://github.com/hyperledger-labs/fabric-smart-client/pull/1457) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
   <!--END_SECTION:activity-->
 
 </details>
