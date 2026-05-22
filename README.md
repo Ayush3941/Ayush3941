@@ -142,12 +142,12 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1466](https://github.com/hyperledger-labs/fabric-smart-client/pull/1466) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-2. 🎉 Merged PR [#186119](https://github.com/llvm/llvm-project/pull/186119) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-3. 🎉 Merged PR [#177](https://github.com/hyperledger/fabric-x-evm/pull/177) in [hyperledger/fabric-x-evm](https://github.com/hyperledger/fabric-x-evm)
-4. 💪 Opened PR [#177](https://github.com/hyperledger/fabric-x-evm/pull/177) in [hyperledger/fabric-x-evm](https://github.com/hyperledger/fabric-x-evm)
-5. 🗣 Commented on [#1466](https://github.com/hyperledger-labs/fabric-smart-client/pull/1466#issuecomment-4492940847) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-6. 🗣 Commented on [#1441](https://github.com/hyperledger-labs/fabric-smart-client/issues/1441#issuecomment-4492644861) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+1. 🎉 Merged PR [#1457](https://github.com/hyperledger-labs/fabric-smart-client/pull/1457) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+2. 🎉 Merged PR [#1466](https://github.com/hyperledger-labs/fabric-smart-client/pull/1466) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+3. 🎉 Merged PR [#186119](https://github.com/llvm/llvm-project/pull/186119) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+4. 🎉 Merged PR [#177](https://github.com/hyperledger/fabric-x-evm/pull/177) in [hyperledger/fabric-x-evm](https://github.com/hyperledger/fabric-x-evm)
+5. 💪 Opened PR [#177](https://github.com/hyperledger/fabric-x-evm/pull/177) in [hyperledger/fabric-x-evm](https://github.com/hyperledger/fabric-x-evm)
+6. 🗣 Commented on [#1466](https://github.com/hyperledger-labs/fabric-smart-client/pull/1466#issuecomment-4492940847) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
   <!--END_SECTION:activity-->
 
 </details>
