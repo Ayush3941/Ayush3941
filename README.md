@@ -142,12 +142,12 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1422](https://github.com/hyperledger-labs/fabric-smart-client/issues/1422#issuecomment-4516642203) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-2. 🎉 Merged PR [#1457](https://github.com/hyperledger-labs/fabric-smart-client/pull/1457) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-3. 🎉 Merged PR [#1466](https://github.com/hyperledger-labs/fabric-smart-client/pull/1466) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
-4. 🎉 Merged PR [#186119](https://github.com/llvm/llvm-project/pull/186119) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
-5. 🎉 Merged PR [#177](https://github.com/hyperledger/fabric-x-evm/pull/177) in [hyperledger/fabric-x-evm](https://github.com/hyperledger/fabric-x-evm)
-6. 💪 Opened PR [#177](https://github.com/hyperledger/fabric-x-evm/pull/177) in [hyperledger/fabric-x-evm](https://github.com/hyperledger/fabric-x-evm)
+1. 💪 Opened PR [#1481](https://github.com/hyperledger-labs/fabric-smart-client/pull/1481) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+2. 🗣 Commented on [#1438](https://github.com/hyperledger-labs/fabric-smart-client/issues/1438#issuecomment-4527826291) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+3. 🗣 Commented on [#1440](https://github.com/hyperledger-labs/fabric-smart-client/issues/1440#issuecomment-4527822362) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+4. 💪 Opened PR [#1480](https://github.com/hyperledger-labs/fabric-smart-client/pull/1480) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+5. 🗣 Commented on [#1422](https://github.com/hyperledger-labs/fabric-smart-client/issues/1422#issuecomment-4516642203) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
+6. 🎉 Merged PR [#1457](https://github.com/hyperledger-labs/fabric-smart-client/pull/1457) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
   <!--END_SECTION:activity-->
 
 </details>
