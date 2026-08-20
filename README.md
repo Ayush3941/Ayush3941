@@ -57,19 +57,25 @@
 
 <!-- Stats Cards Grid -->
 <div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="
-      https://github-readme-stats.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false,
-      https://github-readme-streak-stats.herokuapp.com?user=Ayush3941&theme=tokyonight&hide_border=false
-    ">
-  </picture>
-  <!--stats grade-->
-   <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=86400"
-        width="100%"
-      />
-  <!--stats graph-->
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush3941&theme=tokyonight" width="100%" />
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Ayush3941&show_icons=true&theme=tokyonight&hide_border=false"
+    width="100%"
+  />
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Ayush3941&theme=tokyonight"
+    width="100%"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ayush3941&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"
+    width="100%"
+  />
+
 </div>
 
 <!-- GitHub Snake -->
