@@ -91,7 +91,7 @@
 
 # 🏆 Achievements & Highlights
 <p align="center">
-
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Ayush3941&theme=algolia&no-frame=true&row=1&column=6" />
 
 </p>
 
