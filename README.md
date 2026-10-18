@@ -149,7 +149,7 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#143](https://github.com/hyperledger/fabric-x-evm/pull/143) in [hyperledger/fabric-x-evm](https://github.com/hyperledger/fabric-x-evm)
+1. 💪 Opened PR [#11](https://github.com/hyperledger/fabric-x-rfcs/pull/11) in [hyperledger/fabric-x-rfcs](https://github.com/hyperledger/fabric-x-rfcs)
 2. 🎉 Merged PR [#1481](https://github.com/hyperledger-labs/fabric-smart-client/pull/1481) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
 3. 🎉 Merged PR [#1459](https://github.com/hyperledger-labs/fabric-smart-client/pull/1459) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
 4. 🎉 Merged PR [#1458](https://github.com/hyperledger-labs/fabric-smart-client/pull/1458) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
