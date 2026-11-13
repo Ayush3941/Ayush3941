@@ -149,8 +149,8 @@
   <br>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/hyperledger/fabric-x-rfcs/pull/11#issuecomment-6789350141) in [hyperledger/fabric-x-rfcs](https://github.com/hyperledger/fabric-x-rfcs)
-2. 💪 Opened PR [#11](https://github.com/hyperledger/fabric-x-rfcs/pull/11) in [hyperledger/fabric-x-rfcs](https://github.com/hyperledger/fabric-x-rfcs)
+1. 🗣 Commented on [#11](https://github.com/Chaguar/rfcs/pull/11#issuecomment-6789350141) in [Chaguar/rfcs](https://github.com/Chaguar/rfcs)
+2. 💪 Opened PR [#11](https://github.com/Chaguar/rfcs/pull/11) in [Chaguar/rfcs](https://github.com/Chaguar/rfcs)
 3. 🎉 Merged PR [#1459](https://github.com/hyperledger-labs/fabric-smart-client/pull/1459) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
 4. 🎉 Merged PR [#1458](https://github.com/hyperledger-labs/fabric-smart-client/pull/1458) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
 5. 🗣 Commented on [#1459](https://github.com/hyperledger-labs/fabric-smart-client/pull/1459#issuecomment-4665984930) in [hyperledger-labs/fabric-smart-client](https://github.com/hyperledger-labs/fabric-smart-client)
